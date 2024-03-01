@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefanus Suwandi</h1>
 <h3 align="center">I'm a cross-platform mobile developer from Indonesia :grin:</h3>
 
-- 🔭 I’m currently working on [Rakhasa Artha Wisesa](https://rakhasa.com/)
+- 🔭 I’m currently working as a Freelancer.
 
-- 🔭 Current project on work is [Rumah Berkat](https://rumahberkat.com/)
-
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** & **Laravel**
 
 - ⚡ Fun fact **I love to play Badminton and Table Tennis.**
 
