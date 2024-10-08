@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love to play Badminton and Table Tennis.**
 
-<h1>https://zwandiboss08.github.io/vcard-personal-portfolio/</h1>
+<h3>https://zwandiboss08.github.io/vcard-personal-portfolio/</h3>
 
 ### Connect with me:
 
